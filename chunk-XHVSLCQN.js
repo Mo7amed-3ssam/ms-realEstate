@@ -1,0 +1,1 @@
+function t(n){if(n==null||n==="")return;let e=Number(n);return Number.isFinite(e)?e:void 0}function o(n){return String(n??"").trim()||void 0}function u(n,e){let i=n.trim(),r=e.trim();if(!(!i&&!r))return{ar:i,en:r}}function d(n,e){return{ar:n.trim(),en:e.trim()}}function a(n){return!!(n&&n.touched&&n.invalid)}export{t as a,o as b,u as c,d,a as e};

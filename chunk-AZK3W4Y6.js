@@ -1,0 +1,1 @@
+var e=["available","reserved","sold","rented","unavailable"],t={available:"STATUS.AVAILABLE",reserved:"STATUS.RESERVED",sold:"STATUS.SOLD",rented:"STATUS.RENTED",unavailable:"STATUS.UNAVAILABLE"};export{e as a,t as b};

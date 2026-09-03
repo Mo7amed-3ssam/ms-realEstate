@@ -1,0 +1,1 @@
+import{a}from"./chunk-5ZO6F45L.js";import{c as n}from"./chunk-57HKU5J3.js";import{$a as i,W as e}from"./chunk-SUPIYLXD.js";var o=class r{translation=e(n);transform(t){return a(t,this.translation.getCurrentLang())}static \u0275fac=function(m){return new(m||r)};static \u0275pipe=i({name:"price",type:r,pure:!1})};export{o as a};

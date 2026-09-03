@@ -1,0 +1,1 @@
+var e={production:!1,siteUrl:"http://localhost:4200",firebase:{apiKey:"AIzaSyCEwd2agr0-S20jmab7PRjwLJN3HLUPN4g",authDomain:"ms-realestate-28a35.firebaseapp.com",projectId:"ms-realestate-28a35",storageBucket:"ms-realestate-28a35.firebasestorage.app",messagingSenderId:"729040071205",appId:"1:729040071205:web:9c907ec285a71c63a36dcc",measurementId:"G-PSF86H84BW"}};export{e as a};

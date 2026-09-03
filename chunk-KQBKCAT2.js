@@ -1,0 +1,1 @@
+var T=["upcoming","underConstruction","delivered","soldOut"],t={upcoming:"PROJECT_STATUS.UPCOMING",underConstruction:"PROJECT_STATUS.UNDER_CONSTRUCTION",delivered:"PROJECT_STATUS.DELIVERED",soldOut:"PROJECT_STATUS.SOLD_OUT"};export{T as a,t as b};

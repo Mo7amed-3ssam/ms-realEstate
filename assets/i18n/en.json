@@ -1,0 +1,1157 @@
+{
+  "BRAND": {
+    "NAME": "MS Mohamed Sami Real Estate"
+  },
+  "NAV": {
+    "HOME": "Home",
+    "PROJECTS": "Projects",
+    "PROPERTIES": "Properties",
+    "RESALE": "Resale",
+    "RENTAL": "Rental",
+    "ABOUT": "About",
+    "CONTACT": "Contact",
+    "LANGUAGE": "Language",
+    "TOGGLE_MENU": "Open menu",
+    "CLOSE_MENU": "Close menu",
+    "ENGLISH_SHORT": "EN",
+    "ARABIC_SHORT": "AR",
+    "SEARCH": "Search",
+    "SEARCH_PLACEHOLDER": "Search by project, property or location",
+    "SEARCH_NO_RESULTS": "No properties or projects found",
+    "SEARCH_PROJECT": "Project",
+    "SEARCH_PROPERTY": "Property",
+    "SEARCH_PROJECTS": "Projects",
+    "SEARCH_PROPERTIES": "Properties",
+    "SEARCH_VIEW_ALL": "View all results",
+    "SEARCH_ERROR": "Search is temporarily unavailable.",
+    "SEARCH_RETRY": "Try again",
+    "CLOSE_SEARCH": "Close search",
+    "DASHBOARD": "Dashboard",
+    "LOGOUT": "Log out",
+    "FAVORITES": "Favorites"
+    },
+    "CTA": {
+    "EXPLORE_PROPERTIES": "Explore properties",
+    "EXPLORE_PROJECTS": "View projects",
+    "CONTACT": "Contact us",
+    "WHATSAPP": "WhatsApp",
+    "LEARN_MORE": "Learn more",
+    "VIEW_DETAILS": "View details",
+    "SEARCH": "Search"
+  },
+  "FOOTER": {
+    "DESCRIPTION": "A professional real-estate platform for projects, homes, resale, and rental.",
+    "EXPLORE": "Explore",
+    "QUICK_LINKS": "Quick links",
+    "CONTACT": "Contact",
+    "CONNECT": "Connect",
+    "RIGHTS": "All rights reserved.",
+    "WORKING_HOURS": "Working hours"
+  },
+  "COMMON": {
+    "COMING_SOON": "This page is being prepared.",
+    "COMING_SOON_LEAD": "The visual foundation is ready. Content for this section will be added in the next phase.",
+    "BACK_HOME": "Back home",
+    "LOADING": "Loading",
+    "EMPTY": "Nothing to show yet",
+    "ERROR": "Something went wrong",
+    "WHATSAPP": "WhatsApp",
+    "FROM": "From",
+    "AREA": "Area",
+    "BEDROOMS": "Beds",
+    "BATHROOMS": "Baths",
+    "SQM": "sqm",
+    "NEGOTIABLE": "Negotiable",
+    "MAINTENANCE": "We’ll be back shortly",
+    "ARABIC": "Arabic",
+    "ENGLISH": "English",
+    "TO_TOP": "Back to top",
+    "FLOAT_ACTIONS": "Quick actions"
+  },
+  "LISTING_TYPE": {
+    "PRIMARY": "Primary",
+    "RESALE": "Resale",
+    "RENTAL": "Rental"
+  },
+  "PROJECT_STATUS": {
+    "UPCOMING": "Upcoming",
+    "UNDER_CONSTRUCTION": "Under construction",
+    "DELIVERED": "Ready / Delivered",
+    "SOLD_OUT": "Sold out"
+  },
+  "STATUS": {
+    "AVAILABLE": "Available",
+    "RESERVED": "Reserved",
+    "SOLD": "Sold",
+    "RENTED": "Rented",
+    "UNAVAILABLE": "Unavailable"
+  },
+  "LEAD_STATUS": {
+    "NEW": "New",
+    "CONTACTED": "Contacted",
+    "INTERESTED": "Interested",
+    "FOLLOW_UP": "Follow-up",
+    "CONVERTED": "Converted",
+    "CLOSED": "Closed"
+  },
+  "PROPERTY": {
+    "RENTAL_PERIOD": {
+      "DAILY": "/ day",
+      "WEEKLY": "/ week",
+      "MONTHLY": "/ month",
+      "YEARLY": "/ year"
+    },
+    "FINISHING": {
+      "CORE_AND_SHELL": "Core and shell",
+      "SEMI_FINISHED": "Semi-finished",
+      "FULLY_FINISHED": "Fully finished",
+      "LUXURY": "Luxury"
+    },
+    "FURNISHING": {
+      "UNFURNISHED": "Unfurnished",
+      "SEMI_FURNISHED": "Semi-furnished",
+      "FURNISHED": "Furnished"
+    }
+  },
+  "SEARCH": {
+    "TITLE": "Find your next property",
+    "LISTING_TYPE": "Listing type",
+    "ALL": "All",
+    "LOCATION": "Location",
+    "PROPERTY_TYPE": "Type",
+    "BEDROOMS": "Bedrooms",
+    "BEDROOMS_PLUS": "5+",
+    "ANY": "Any"
+  },
+  "HOME": {
+    "HERO": {
+      "EYEBROW": "Real estate, refined"
+    },
+    "STATS": {
+      "PROJECTS": "Projects",
+      "PROPERTIES": "Properties",
+      "LOCATIONS": "Locations"
+    },
+    "FEATURED_PROJECTS": {
+      "EYEBROW": "Projects",
+      "TITLE": "Featured projects",
+      "LEAD": "A selection of communities and developments worth a closer look.",
+      "EMPTY": "No featured projects yet",
+      "EMPTY_LEAD": "Published featured projects will appear here."
+    },
+    "FEATURED_PROPERTIES": {
+      "EYEBROW": "Units",
+      "TITLE": "Featured properties",
+      "LEAD": "Primary, resale, and rental homes presented through one consistent card.",
+      "EMPTY": "No featured properties yet",
+      "EMPTY_LEAD": "Published featured units will appear here."
+    },
+    "WHY_US": {
+      "EYEBROW": "Why work with us",
+      "TITLE": "Real estate advice you can rely on",
+      "LEAD": "Clear guidance across projects, units, pricing, and payment options — from the first inquiry to the final decision.",
+      "ITEMS": {
+        "EXPERTISE": {
+          "TITLE": "Local market expertise",
+          "TEXT": "Practical knowledge of key locations, project pipelines, and what each area offers buyers and investors."
+        },
+        "DUE_DILIGENCE": {
+          "TITLE": "Verified projects and units",
+          "TEXT": "We review developer reputation, delivery status, and listing details before presenting options to clients."
+        },
+        "TRANSPARENCY": {
+          "TITLE": "Transparent pricing guidance",
+          "TEXT": "Price, payment plans, and delivery timelines are explained clearly so you can compare opportunities with confidence."
+        },
+        "ADVISORY": {
+          "TITLE": "Dedicated client advisory",
+          "TEXT": "Personal support for primary purchase, resale, or rental — helping you shortlist and move forward with clarity."
+        }
+      }
+    },
+    "ABOUT": {
+      "EYEBROW": "About the company",
+      "HIGHLIGHTS": {
+        "PRIMARY": {
+          "TITLE": "Primary sales",
+          "TEXT": "New projects and developer units with clear delivery and payment details."
+        },
+        "RESALE": {
+          "TITLE": "Resale opportunities",
+          "TEXT": "Ready homes and investment options reviewed for location and market value."
+        },
+        "RENTAL": {
+          "TITLE": "Rental options",
+          "TEXT": "Shortlisted apartments and homes matched to your budget and preferred area."
+        }
+      }
+    },
+    "CTA": {
+      "EYEBROW": "Start a conversation"
+    }
+  },
+  "CATALOG": {
+    "LOAD_MORE": "Load more",
+    "GALLERY": "Gallery",
+    "OVERVIEW": "Overview",
+    "AMENITIES": "Amenities",
+    "LOCATION": "Location",
+    "DEVELOPER": "Developer",
+    "BROCHURE": "Download brochure",
+    "WEBSITE": "Visit website",
+    "OPEN_MAP": "Open in maps",
+    "SPECS": "Specifications",
+    "FEATURES": "Features",
+    "PAYMENT": "Price and payment",
+    "DOCUMENTS": "Documents",
+    "FLOOR_PLANS": "Floor plans",
+    "FLOOR_PLAN_PDF": "Floor plan PDF",
+    "UNAVAILABLE": "This catalog is currently hidden",
+    "UNAVAILABLE_LEAD": "Published listings will appear here when the catalog is enabled.",
+    "BACK_PROJECTS": "All projects",
+    "BACK_PROPERTIES": "All properties",
+    "BACK_RESULTS": "Back to results",
+    "COPY": "Copy reference",
+    "COPIED": "Copied",
+    "SHARE": "Share",
+    "FEATURED": "Featured",
+    "HIGHLIGHTS": "Highlights",
+    "TYPE": "Type",
+    "FLOOR_PLAN": "Floor plan",
+    "YES": "Yes",
+    "PROJECTS": {
+      "TITLE": "Projects",
+      "LEAD": "Explore published communities and developments.",
+      "SEARCH": "Search projects or locations",
+      "COUNT": "projects",
+      "EMPTY": "No projects found",
+      "EMPTY_LEAD": "Try a different search, or check back when new projects are published.",
+      "NOT_FOUND": "Project not found",
+      "NOT_FOUND_LEAD": "This project is unavailable or no longer published.",
+      "STARTING_PRICE": "Starting price",
+      "STARTING_AREA": "Starting area",
+      "DELIVERY": "Delivery",
+      "UNITS": "Units",
+      "AVAILABLE_UNITS": "Available units"
+    },
+    "PROPERTIES": {
+      "TITLE": "Properties",
+      "LEAD": "Browse published primary, resale, and rental units.",
+      "SEARCH": "Search by property, project, or location",
+      "COUNT": "properties",
+      "EMPTY": "No properties found",
+      "EMPTY_LEAD": "Adjust the filters, or check back when new units are published.",
+      "NOT_FOUND": "Property not found",
+      "NOT_FOUND_LEAD": "This listing is unavailable or no longer published.",
+      "SIMILAR": "More units in this project",
+      "SIMILAR_EYEBROW": "Same project",
+      "SIMILAR_IN_PROJECT": "Other units in {{project}}",
+      "SIMILAR_LEAD": "Explore more available homes from the same development.",
+      "VIEW_PROJECT_UNITS": "View all project units",
+      "BUILT_UP": "Built-up area",
+      "FLOOR": "Floor",
+      "VIEW": "View",
+      "FINISHING": "Finishing",
+      "FURNISHING": "Furnishing",
+      "PARKING": "Parking",
+      "PRICE_PER_METER": "Price per sqm",
+      "DOWN_PAYMENT": "Down payment",
+      "INSTALLMENT": "Installment",
+      "DEPOSIT": "Deposit",
+      "PAYMENT_PLAN": "Payment plan",
+      "STATUS": "Status",
+      "DELIVERY": "Delivery",
+      "LAND": "Land area",
+      "GARDEN": "Garden",
+      "ROOF": "Roof",
+      "TERRACE": "Terrace",
+      "TOTAL_FLOORS": "Total floors",
+      "BUILDING": "Building",
+      "UNIT_NUMBER": "Unit",
+      "MAID_ROOM": "Maid room",
+      "DRIVER_ROOM": "Driver room",
+      "MAINTENANCE_FEE": "Maintenance fee",
+      "NEGOTIABLE_LEAD": "The price is negotiable. Contact the team to discuss the best offer.",
+      "OTHER_UNITS": "{{count}} other units in this project",
+      "STARTING_FROM": "Starting from"
+    },
+    "FAVORITES": {
+      "TITLE": "Saved homes",
+      "LEAD": "Your shortlist stays on this device, ready whenever you want to compare or inquire.",
+      "COUNT": "saved homes",
+      "EMPTY": "No favorites yet",
+      "EMPTY_LEAD": "Tap the heart on any property to save it here.",
+      "SAVE": "Save",
+      "SAVED": "Saved"
+    },
+    "LEAD": {
+      "TITLE": "Inquire about this unit",
+      "LEAD": "Share your details and the team will get back to you on WhatsApp.",
+      "NAME": "Name",
+      "NAME_PLACEHOLDER": "Your name",
+      "PHONE": "Phone",
+      "PHONE_PREFIX": "+20",
+      "PHONE_PLACEHOLDER": "10xxxxxxxx",
+      "EMAIL": "Email",
+      "EMAIL_PLACEHOLDER": "name@email.com",
+      "MESSAGE": "Message",
+      "MESSAGE_PLACEHOLDER": "Tell us what you are looking for",
+      "READINESS": "When are you looking to buy?",
+      "READINESS_TODAY": "Ready now",
+      "READINESS_MONTHS": "Within 1–3 months",
+      "READINESS_LOOKING": "Just looking",
+      "SEND": "Send inquiry",
+      "SENT": "Thank you. Your inquiry has been sent.",
+      "ERROR": "The inquiry could not be sent. Please try again."
+    }
+  },
+  "ABOUT_PAGE": {
+    "UNAVAILABLE": "This page is currently hidden",
+    "UNAVAILABLE_LEAD": "The about page will appear here when it is enabled in navigation."
+  },
+  "CONTACT_PAGE": {
+    "TITLE": "Contact us",
+    "LEAD": "Reach the team by phone, WhatsApp, email, or the form below.",
+    "DETAILS": "Contact details",
+    "SOCIAL": "Social",
+    "MAP": "Location map",
+    "UNAVAILABLE": "This page is currently hidden",
+    "UNAVAILABLE_LEAD": "The contact page will appear here when it is enabled in navigation.",
+    "FORM": {
+      "TITLE": "Send a message",
+      "LEAD": "Share your details and the team will get back to you.",
+      "NAME": "Name",
+      "PHONE": "Phone",
+      "EMAIL": "Email",
+      "MESSAGE": "Message",
+      "SEND": "Send message",
+      "SENT": "Thank you. Your message has been sent.",
+      "ERROR": "The message could not be sent. Please try again."
+    }
+  },
+  "ADMIN": {
+    "TITLE": "Dashboard",
+    "SUBTITLE": "Management",
+    "WORKSPACE": "Workspace",
+    "VIEW_SITE": "View website",
+    "LOGOUT": "Log out",
+    "ACCOUNT": "Account menu",
+    "LOGIN": {
+      "EYEBROW": "Admin access",
+      "TITLE": "Sign in",
+      "LEAD": "Enter your authorized credentials to manage the platform.",
+      "BRAND_LEAD": "A private workspace for projects, properties, and client inquiries.",
+      "EMAIL": "Email",
+      "PASSWORD": "Password",
+      "REMEMBER": "Remember me",
+      "SHOW_PASSWORD": "Show password",
+      "HIDE_PASSWORD": "Hide password",
+      "SUBMIT": "Sign in",
+      "SUBMITTING": "Signing in",
+      "ERRORS": {
+        "EMAIL_REQUIRED": "Email is required.",
+        "EMAIL_INVALID": "Enter a valid email address.",
+        "PASSWORD_REQUIRED": "Password is required.",
+        "INVALID_CREDENTIALS": "The email or password is incorrect.",
+        "ACCESS_DENIED": "You do not have permission to access the admin dashboard.",
+        "INACTIVE": "This admin account is inactive. Contact the platform owner.",
+        "TOO_MANY_REQUESTS": "Too many attempts. Please wait and try again.",
+        "NETWORK": "Network error. Check your connection and try again.",
+        "UNKNOWN": "Sign-in could not be completed. Please try again."
+      }
+    },
+    "NAV": {
+      "DASHBOARD": "Dashboard",
+      "PROJECTS": "Projects",
+      "PROPERTIES": "Properties",
+      "DEVELOPERS": "Developers",
+      "LOCATIONS": "Locations",
+      "AMENITIES": "Amenities",
+      "PROPERTY_TYPES": "Property types",
+      "LEADS": "Leads",
+      "USERS": "Users & permissions",
+      "SETTINGS": "Settings",
+      "PROFILE": "My profile",
+      "MENU": "Open menu",
+      "CLOSE": "Close menu"
+    },
+    "DASHBOARD": {
+      "EYEBROW": "Overview",
+      "TITLE": "Dashboard",
+      "LEAD": "Live inventory counts, recent records, and shortcuts into the modules you manage.",
+      "HELLO": "Welcome back, {{name}}",
+      "TOTAL_PROJECTS": "Total projects",
+      "PUBLISHED_PROJECTS": "Published projects",
+      "TOTAL_PROPERTIES": "Total properties",
+      "AVAILABLE_PROPERTIES": "Available properties",
+      "SOLD_PROPERTIES": "Sold properties",
+      "RESALE_PROPERTIES": "Resale properties",
+      "RENTAL_PROPERTIES": "Rental properties",
+      "NEW_LEADS": "New leads",
+      "QUICK_LINKS": "Quick links",
+      "QUICK_LEAD": "Jump to the screens you use most.",
+      "ADD_PROJECT": "Add project",
+      "ADD_PROPERTY": "Add property",
+      "VIEW_PROJECTS": "All projects",
+      "VIEW_PROPERTIES": "All properties",
+      "VIEW_DEVELOPERS": "Developers",
+      "VIEW_LOCATIONS": "Locations",
+      "VIEW_AMENITIES": "Amenities",
+      "VIEW_TYPES": "Property types",
+      "VIEW_LEADS": "Leads",
+      "VIEW_SETTINGS": "Settings",
+      "RECENT_LEADS": "Recent leads",
+      "RECENT_PROPERTIES": "Recent properties",
+      "RECENT_PROJECTS": "Recent projects",
+      "FEATURED_PROJECTS": "Featured projects",
+      "STATUS_OVERVIEW": "Property status",
+      "CATALOG": "Catalog",
+      "NO_LEADS": "No inquiries have been received yet.",
+      "NO_PROPERTIES": "No properties have been added yet.",
+      "NO_PROJECTS": "No projects have been added yet.",
+      "VIEW_ALL": "View all",
+      "UNITS": "{{count}} units"
+    },
+    "PLACEHOLDER": "This module will be implemented in a later phase.",
+    "ACTIONS": {
+      "SAVE": "Save",
+      "SAVING": "Saving",
+      "CANCEL": "Cancel",
+      "BACK": "Back",
+      "ADD": "Add",
+      "EDIT": "Edit",
+      "VIEW": "View",
+      "DELETE": "Delete",
+      "ACTIVATE": "Activate",
+      "DEACTIVATE": "Deactivate",
+      "RESET": "Reset"
+    },
+    "TOAST": {
+      "CREATED": "Saved successfully.",
+      "UPDATED": "Changes saved.",
+      "DELETED": "Deleted successfully.",
+      "ACTIVATED": "Record activated.",
+      "DEACTIVATED": "Record deactivated."
+    },
+    "ERRORS": {
+      "UNKNOWN": "The request could not be completed. Please try again.",
+      "NOT_FOUND": "This record could not be found.",
+      "PERMISSION": "You do not have permission to perform this action.",
+      "PROJECT_HAS_PROPERTIES": "This project has properties associated with it. Please move or remove these properties before deleting the project.",
+      "DEVELOPER_HAS_PROJECTS": "This developer is linked to one or more projects. Reassign or delete those projects first.",
+      "AMENITY_IN_USE": "This amenity is used by a project or property. Remove it from those records first.",
+      "LOCATION_IN_USE": "This location is used by a project or property. Reassign those records first.",
+      "PROPERTY_TYPE_IN_USE": "This property type is used by one or more properties. Reassign those units first.",
+      "IMAGE_TOO_LARGE": "This image is too large. Please choose a smaller file.",
+      "UNSUPPORTED_FORMAT": "Please upload a JPG, PNG, or WebP image.",
+      "INVALID_IMAGE": "This image could not be processed. Please try another file."
+      },
+      "VALIDATION": {
+      "NAME_AR": "Arabic name is required.",
+      "NAME_EN": "English name is required.",
+      "TITLE_AR": "Arabic title is required.",
+      "TITLE_EN": "English title is required.",
+      "DEVELOPER": "Select a developer or add a new one in Arabic and English.",
+      "LOCATION": "Select a location or add a new one in Arabic and English.",
+      "PROJECT": "Select a project.",
+      "PROPERTY_TYPE": "Select a property type.",
+      "COVER": "A main image is required.",
+      "AREA": "Enter a valid area.",
+      "PRICE": "Enter a valid price.",
+      "RENT_PRICE": "Enter a valid rental price.",
+      "URL": "Enter a valid http or https URL.",
+      "COLOR": "Enter a valid color such as #D4AF37.",
+      "PHONE": "Enter a valid phone number.",
+      "EMAIL": "Enter a valid email address."
+    },
+    "SETTINGS": {
+      "EYEBROW": "Configuration",
+      "TITLE": "Settings",
+      "LEAD": "Configure company identity, branding, contact details, and public website content without changing code.",
+      "TOAST": {
+        "SAVED": "Settings saved."
+      },
+      "UNSAVED": {
+        "TITLE": "Unsaved changes",
+        "TEXT": "You have unsaved settings. Leave this page and discard them?",
+        "DISCARD": "Discard",
+        "STAY": "Stay"
+      },
+      "NAV": {
+        "GENERAL": "General",
+        "BRANDING": "Branding",
+        "CONTACT": "Contact",
+        "SOCIAL": "Social media",
+        "HOMEPAGE": "Homepage",
+        "SEO": "SEO",
+        "LOCALIZATION": "Localization",
+        "SYSTEM": "System"
+      },
+      "GENERAL": {
+        "COMPANY": "Company identity",
+        "COMPANY_HELP": "These names appear in the website header, footer, login screen, and browser title.",
+        "NAME_AR": "Company name in Arabic",
+        "NAME_EN": "Company name in English",
+        "SHORT_AR": "Short name in Arabic",
+        "SHORT_EN": "Short name in English",
+        "TAGLINE_AR": "Tagline in Arabic",
+        "TAGLINE_EN": "Tagline in English",
+        "DESCRIPTION_AR": "Company description in Arabic",
+        "DESCRIPTION_EN": "Company description in English"
+      },
+      "BRANDING": {
+        "LOGOS": "Logos",
+        "LOGOS_HELP": "Images are compressed and stored in Firestore. Use a transparent logo when possible.",
+        "LOGO": "Primary logo",
+        "DARK_LOGO": "Light / secondary logo",
+        "FAVICON": "Favicon",
+        "COLORS": "Brand colors",
+        "COLORS_HELP": "These colors update the website theme after you save.",
+        "PRIMARY": "Primary color",
+        "PRIMARY_HELP": "Used for buttons and key links across the website.",
+        "SECONDARY": "Secondary color",
+        "ACCENT": "Accent color",
+        "BUTTON": "Button color",
+        "BACKGROUND": "Background",
+        "SURFACE": "Surface / cards",
+        "TEXT": "Text",
+        "MUTED": "Muted text",
+        "BORDER": "Borders",
+        "FONT": "Font family (optional)",
+        "PREVIEW": "Live preview",
+        "NAV_SAMPLE": "Navigation",
+        "BADGE_SAMPLE": "Featured",
+        "HEADING_SAMPLE": "Project heading",
+        "TEXT_SAMPLE": "Card text shows how body copy will look with these colors.",
+        "BUTTON_SAMPLE": "View details"
+      },
+      "CONTACT": {
+        "CHANNELS": "Contact channels",
+        "PHONE": "Primary phone",
+        "PHONE_SECONDARY": "Secondary phone",
+        "EMAIL": "Primary email",
+        "EMAIL_SECONDARY": "Secondary email",
+        "WHATSAPP": "WhatsApp",
+        "WHATSAPP_HELP": "Enter the number with country code and no plus sign, for example 201000000000.",
+        "WHATSAPP_NUMBER": "WhatsApp number",
+        "WHATSAPP_BUTTON": "Show floating WhatsApp button",
+        "WHATSAPP_FORM": "Allow WhatsApp as a lead contact option",
+        "LOCATION": "Address and hours",
+        "ADDRESS_AR": "Address in Arabic",
+        "ADDRESS_EN": "Address in English",
+        "HOURS_AR": "Working hours in Arabic",
+        "HOURS_EN": "Working hours in English",
+        "WHATSAPP_MESSAGE_AR": "Default WhatsApp message in Arabic",
+        "WHATSAPP_MESSAGE_EN": "Default WhatsApp message in English",
+        "LATITUDE": "Latitude",
+        "LONGITUDE": "Longitude"
+      },
+      "SOCIAL": {
+        "TITLE": "Social accounts",
+        "HELP": "Enable only the platforms you use. Empty or disabled links stay hidden on the public website.",
+        "URL": "Profile URL",
+        "PREVIEW": "Enabled links",
+        "EMPTY": "No social links are enabled yet.",
+        "FACEBOOK": "Facebook",
+        "INSTAGRAM": "Instagram",
+        "WHATSAPP": "WhatsApp",
+        "TIKTOK": "TikTok",
+        "YOUTUBE": "YouTube",
+        "LINKEDIN": "LinkedIn",
+        "X": "X",
+        "SNAPCHAT": "Snapchat",
+        "TELEGRAM": "Telegram"
+      },
+      "HOMEPAGE": {
+        "HERO": "Hero section",
+        "HERO_TITLE_AR": "Hero title in Arabic",
+        "HERO_TITLE_EN": "Hero title in English",
+        "HERO_SUBTITLE_AR": "Hero subtitle in Arabic",
+        "HERO_SUBTITLE_EN": "Hero subtitle in English",
+        "CTA_AR": "Button text in Arabic",
+        "CTA_EN": "Button text in English",
+        "CTA_URL": "Button link",
+        "HERO_IMAGE": "Hero background image",
+        "FEATURED": "Featured catalog",
+        "FEATURED_HELP": "Store only project and property IDs here. The catalog records stay in their own collections.",
+        "FEATURED_PROJECTS": "Show featured projects",
+        "FEATURED_PROPERTIES": "Show featured properties",
+        "PROJECTS_COUNT": "Number of projects",
+        "PROPERTIES_COUNT": "Number of properties",
+        "SELECT_PROJECTS": "Featured project IDs",
+        "SELECT_PROPERTIES": "Featured property IDs",
+        "ABOUT": "About / Why us",
+        "ABOUT_ENABLED": "Show about section",
+        "WHY_US": "Show why-us section",
+        "ABOUT_TITLE_AR": "About title in Arabic",
+        "ABOUT_TITLE_EN": "About title in English",
+        "ABOUT_DESC_AR": "About description in Arabic",
+        "ABOUT_DESC_EN": "About description in English",
+        "ABOUT_IMAGE": "About image",
+        "CTA": "Contact call to action",
+        "CTA_ENABLED": "Show contact CTA",
+        "CTA_TITLE_AR": "CTA title in Arabic",
+        "CTA_TITLE_EN": "CTA title in English",
+        "CTA_DESC_AR": "CTA description in Arabic",
+        "CTA_DESC_EN": "CTA description in English",
+        "CTA_BUTTON_AR": "CTA button in Arabic",
+        "CTA_BUTTON_EN": "CTA button in English"
+      },
+      "SEO": {
+        "GLOBAL": "Global SEO",
+        "HELP": "Used as the default browser title, description, and social preview unless a page has its own values.",
+        "TITLE_AR": "Title in Arabic",
+        "TITLE_EN": "Title in English",
+        "META_AR": "Meta description in Arabic",
+        "META_EN": "Meta description in English",
+        "KEYWORDS_AR": "Keywords in Arabic",
+        "KEYWORDS_EN": "Keywords in English",
+        "ROBOTS": "Robots",
+        "CANONICAL": "Canonical URL",
+        "OG_IMAGE": "Default social image",
+        "PAGES": "Page SEO",
+        "PAGE": {
+          "home": "Home",
+          "projects": "Projects",
+          "properties": "Properties",
+          "about": "About",
+          "contact": "Contact",
+          "resale": "Resale",
+          "rental": "Rental"
+        }
+      },
+      "LOCALIZATION": {
+        "TITLE": "Languages",
+        "HELP": "Interface translations stay in the language files. These settings only control which languages visitors can use.",
+        "DEFAULT": "Default language",
+        "ARABIC": "Enable Arabic",
+        "ENGLISH": "Enable English",
+        "RTL_HELP": "Arabic uses right-to-left automatically. English uses left-to-right."
+      },
+      "SYSTEM": {
+        "STATUS": "Website status",
+        "WEBSITE_ENABLED": "Website is online",
+        "MAINTENANCE": "Maintenance mode",
+        "MAINTENANCE_AR": "Maintenance message in Arabic",
+        "MAINTENANCE_EN": "Maintenance message in English",
+        "CATALOG": "Public catalog",
+        "PAGE_SIZE": "Default list size",
+        "PUBLIC_PROJECTS": "Enable public project listing",
+        "PUBLIC_PROPERTIES": "Enable public property listing",
+        "NAVIGATION": "Public navigation",
+        "NAVIGATION_HELP": "Hide pages that this company does not use."
+      }
+    },
+    "FIELDS": {
+      "SELECT": "Select",
+      "SORT_ORDER": "Display order",
+      "MAPS_URL": "Google Maps URL",
+      "BROCHURE_URL": "Brochure PDF URL (Google Drive)",
+      "DELIVERY_DATE": "Delivery date",
+      "ACTIVE": "Active",
+      "INACTIVE": "Inactive",
+      "PUBLISHED": "Published",
+      "UNPUBLISHED": "Unpublished",
+      "FEATURED": "Featured",
+      "CANCEL_NEW": "Cancel new entry",
+      "NO_REFERENCE": "No reference"
+    },
+    "COLUMNS": {
+      "UPDATED": "Updated",
+      "ACTIONS": "Actions",
+      "STATUS": "Status"
+    },
+    "FILTERS": {
+      "ALL_STATUSES": "All statuses",
+      "ALL_DEVELOPERS": "All developers",
+      "ALL_PROJECTS": "All projects",
+      "ALL_LISTING_TYPES": "All listing types",
+      "ALL_PROPERTY_TYPES": "All property types",
+      "ALL_VISIBILITY": "All visibility",
+      "ALL_ACTIVITY": "All activity",
+      "ALL_CATEGORIES": "All categories"
+    },
+    "SECTIONS": {
+      "PUBLISHING": "Publishing settings"
+    },
+    "MEDIA": {
+      "ADD_IMAGE": "Add image",
+      "ADD_LOGO": "Add logo",
+      "ADD_COVER": "Add cover image",
+      "ADD_GALLERY": "Add gallery images",
+      "ADD_FLOORPLAN": "Add floor plan",
+      "REMOVE": "Remove image",
+      "REPLACE": "Replace image",
+      "PROCESSING": "Optimizing image…"
+    },
+    "PROJECTS": {
+      "EYEBROW": "Inventory",
+      "TITLE": "Projects",
+      "LEAD": "Create and manage developments with bilingual content, media, and amenities.",
+      "ADD": "Add project",
+      "SEARCH": "Search projects",
+      "CREATE_TITLE": "Add project",
+      "CREATE_LEAD": "Enter Arabic and English content, then save the project before adding units.",
+      "EDIT_TITLE": "Edit project",
+      "EDIT_LEAD": "Update project information without losing existing unpublished fields.",
+      "EMPTY": "No projects found.",
+      "EMPTY_LEAD": "Add the first project to start attaching properties.",
+      "ADD_DEVELOPER": "Add new developer",
+      "ADD_LOCATION": "Add new location",
+      "DELETE_TITLE": "Delete this project?",
+      "DELETE_TEXT": "This will permanently remove {{name}}. Properties must be moved or deleted first.",
+      "COLUMNS": {
+        "PROJECT": "Project",
+        "DEVELOPER": "Developer",
+        "LOCATION": "Location",
+        "UNITS": "Units",
+        "STATUS": "Status"
+      },
+      "SECTIONS": {
+        "BASIC": "Basic information",
+        "DESCRIPTION": "Project description",
+        "LOCATION": "Location",
+        "MEDIA": "Media",
+        "AMENITIES": "Amenities",
+        "ADDITIONAL": "Additional information"
+      },
+      "FIELDS": {
+        "NAME_AR": "Project name (Arabic)",
+        "NAME_EN": "Project name (English)",
+        "SHORT_AR": "Short description (Arabic)",
+        "SHORT_EN": "Short description (English)",
+        "DESCRIPTION_AR": "Description (Arabic)",
+        "DESCRIPTION_EN": "Description (English)",
+        "STATUS": "Project status",
+        "DEVELOPER": "Developer",
+        "DEVELOPER_AR": "Developer name (Arabic)",
+        "DEVELOPER_EN": "Developer name (English)",
+        "LOCATION": "Location",
+        "LOCATION_AR": "Location name (Arabic)",
+        "LOCATION_EN": "Location name (English)",
+        "ADDRESS_AR": "Address (Arabic)",
+        "ADDRESS_EN": "Address (English)",
+        "LOGO": "Project logo",
+        "COVER": "Cover image",
+        "GALLERY": "Gallery",
+        "STARTING_PRICE": "Starting price",
+        "STARTING_AREA": "Starting area"
+      }
+    },
+    "PROPERTIES": {
+      "EYEBROW": "Inventory",
+      "TITLE": "Properties",
+      "LEAD": "Manage primary, resale, and rental units. Primary units belong to a project; resale and rental can be standalone.",
+      "ADD": "Add property",
+      "SEARCH": "Search by title or reference",
+      "CREATE_TITLE": "Add property",
+      "CREATE_LEAD": "Choose the listing type first. Primary units require a project; resale and rental can be saved without one.",
+      "EDIT_TITLE": "Edit property",
+      "EDIT_LEAD": "Update this unit while keeping existing media unless you replace it.",
+      "EMPTY": "No properties found.",
+      "EMPTY_LEAD": "Add a property. Primary units attach to a project; resale and rental can stand alone.",
+      "NO_PROJECT": "Not linked to a project",
+      "DELETE_TITLE": "Delete this property?",
+      "DELETE_TEXT": "This will permanently remove {{name}}.",
+      "COLUMNS": {
+        "PROPERTY": "Property",
+        "PROJECT": "Project",
+        "TYPE": "Type",
+        "LISTING": "Listing",
+        "PRICE": "Price",
+        "STATUS": "Status"
+      },
+      "SECTIONS": {
+        "BASIC": "Basic information",
+        "CLASSIFICATION": "Classification",
+        "SPECS": "Specifications",
+        "PRICING": "Pricing",
+        "DESCRIPTION": "Description",
+        "FEATURES": "Features",
+        "MEDIA": "Media",
+        "DOCUMENTS": "Documents"
+      },
+      "FIELDS": {
+        "PROJECT": "Project",
+        "PROJECT_HINT": "Optional for resale and rental. Leave empty if this unit is not part of a project.",
+        "LOCATION": "Location",
+        "TITLE_AR": "Title (Arabic)",
+        "TITLE_EN": "Title (English)",
+        "SHORT_AR": "Short description (Arabic)",
+        "SHORT_EN": "Short description (English)",
+        "DESCRIPTION_AR": "Description (Arabic)",
+        "DESCRIPTION_EN": "Description (English)",
+        "REFERENCE": "Reference / code",
+        "LISTING_TYPE": "Listing type",
+        "PROPERTY_TYPE": "Property type",
+        "STATUS": "Status",
+        "AREA": "Area (sqm)",
+        "FLOOR": "Floor",
+        "TOTAL_FLOORS": "Number of floors",
+        "BUILDING": "Building number",
+        "UNIT": "Unit number",
+        "GARDEN_AREA": "Garden area",
+        "ROOF_AREA": "Roof area",
+        "TERRACE_AREA": "Terrace area",
+        "PARKING": "Parking spaces",
+        "FINISHING": "Finishing",
+        "FURNISHING": "Furnishing",
+        "VIEW_AR": "View (Arabic)",
+        "VIEW_EN": "View (English)",
+        "PRICE": "Price",
+        "PRICE_PER_METER": "Price per sqm",
+        "DOWN_PAYMENT": "Down payment",
+        "INSTALLMENT": "Installment amount",
+        "PAYMENT_PLAN_AR": "Payment plan (Arabic)",
+        "PAYMENT_PLAN_EN": "Payment plan (English)",
+        "RENT_PRICE": "Rental price",
+        "RENTAL_PERIOD": "Rental period",
+        "DEPOSIT": "Deposit",
+        "MAINTENANCE": "Maintenance fee",
+        "COVER": "Main image",
+        "GALLERY": "Gallery",
+        "FLOOR_PLANS": "Floor plan images",
+        "FLOORPLAN_PDF": "Floor plan PDF URL (Google Drive)"
+      }
+    },
+    "DEVELOPERS": {
+      "EYEBROW": "Catalog",
+      "TITLE": "Developers",
+      "LEAD": "Manage developer names, logos, and website links used across projects.",
+      "ADD": "Add developer",
+      "SEARCH": "Search developers",
+      "CREATE_TITLE": "Add developer",
+      "CREATE_LEAD": "Enter the developer name in Arabic and English. The logo is stored as an optimized image in Firestore.",
+      "EDIT_TITLE": "Edit developer",
+      "EDIT_LEAD": "Update this developer. Linked projects keep the same developer ID.",
+      "EMPTY": "No developers found.",
+      "EMPTY_LEAD": "Add a developer before attaching projects.",
+      "DELETE_TITLE": "Delete this developer?",
+      "DELETE_TEXT": "This will permanently remove {{name}}. Projects using this developer must be reassigned first.",
+      "COLUMNS": {
+        "DEVELOPER": "Developer",
+        "WEBSITE": "Website"
+      },
+      "SECTIONS": {
+        "BASIC": "Basic information",
+        "MEDIA": "Logo"
+      },
+      "FIELDS": {
+        "NAME_AR": "Developer name (Arabic)",
+        "NAME_EN": "Developer name (English)",
+        "DESCRIPTION_AR": "Description (Arabic)",
+        "DESCRIPTION_EN": "Description (English)",
+        "WEBSITE": "Website URL",
+        "LOGO": "Developer logo"
+      }
+    },
+    "AMENITIES": {
+      "EYEBROW": "Catalog",
+      "TITLE": "Amenities",
+      "LEAD": "Configure reusable features that can be attached to projects and properties.",
+      "ADD": "Add amenity",
+      "SEARCH": "Search amenities",
+      "CREATE_TITLE": "Add amenity",
+      "CREATE_LEAD": "Enter the amenity in Arabic and English, then choose an icon and category.",
+      "EDIT_TITLE": "Edit amenity",
+      "EDIT_LEAD": "Update this amenity. Existing project and property links keep the same ID.",
+      "EMPTY": "No amenities found.",
+      "EMPTY_LEAD": "Add amenities so projects and properties can select them.",
+      "DELETE_TITLE": "Delete this amenity?",
+      "DELETE_TEXT": "This will permanently remove {{name}}. It cannot be deleted while a project or property still uses it.",
+      "COLUMNS": {
+        "AMENITY": "Amenity",
+        "CATEGORY": "Category"
+      },
+      "SECTIONS": {
+        "BASIC": "Basic information"
+      },
+      "FIELDS": {
+        "NAME_AR": "Name (Arabic)",
+        "NAME_EN": "Name (English)",
+        "CATEGORY": "Category",
+        "ICON": "Icon"
+      },
+      "CATEGORIES": {
+        "SAFETY": "Safety",
+        "LEISURE": "Leisure",
+        "OUTDOOR": "Outdoor",
+        "PARKING": "Parking",
+        "BUILDING": "Building",
+        "LOCATION": "Location",
+        "VIEW": "View",
+        "OTHER": "Other"
+      }
+    },
+    "LOCATIONS": {
+      "EYEBROW": "Catalog",
+      "TITLE": "Locations",
+      "LEAD": "Manage cities, areas, and map links used by projects and properties.",
+      "ADD": "Add location",
+      "SEARCH": "Search locations",
+      "CREATE_TITLE": "Add location",
+      "CREATE_LEAD": "Enter the location in Arabic and English, then add map coordinates if available.",
+      "EDIT_TITLE": "Edit location",
+      "EDIT_LEAD": "Update this location. Linked projects and properties keep the same location ID.",
+      "EMPTY": "No locations found.",
+      "EMPTY_LEAD": "Add a location before attaching projects.",
+      "DELETE_TITLE": "Delete this location?",
+      "DELETE_TEXT": "This will permanently remove {{name}}. Projects or properties using it must be reassigned first.",
+      "COLUMNS": {
+        "LOCATION": "Location",
+        "PLACE": "City / area"
+      },
+      "SECTIONS": {
+        "BASIC": "Basic information",
+        "MAP": "Map"
+      },
+      "FIELDS": {
+        "NAME_AR": "Location name (Arabic)",
+        "NAME_EN": "Location name (English)",
+        "COUNTRY_AR": "Country (Arabic)",
+        "COUNTRY_EN": "Country (English)",
+        "CITY_AR": "City (Arabic)",
+        "CITY_EN": "City (English)",
+        "AREA_AR": "Area (Arabic)",
+        "AREA_EN": "Area (English)",
+        "ADDRESS_AR": "Address (Arabic)",
+        "ADDRESS_EN": "Address (English)",
+        "LATITUDE": "Latitude",
+        "LONGITUDE": "Longitude"
+      }
+    },
+    "PROPERTY_TYPES": {
+      "EYEBROW": "Catalog",
+      "TITLE": "Property types",
+      "LEAD": "Configure the unit types that properties can be classified as.",
+      "ADD": "Add property type",
+      "SEARCH": "Search property types",
+      "CREATE_TITLE": "Add property type",
+      "CREATE_LEAD": "Enter the type in Arabic and English, then choose an icon and category.",
+      "EDIT_TITLE": "Edit property type",
+      "EDIT_LEAD": "Update this type. Existing properties keep the same type ID.",
+      "EMPTY": "No property types found.",
+      "EMPTY_LEAD": "Add property types so units can be classified.",
+      "DELETE_TITLE": "Delete this property type?",
+      "DELETE_TEXT": "This will permanently remove {{name}}. It cannot be deleted while a property still uses it.",
+      "COLUMNS": {
+        "TYPE": "Type",
+        "CATEGORY": "Category"
+      },
+      "SECTIONS": {
+        "BASIC": "Basic information"
+      },
+      "FIELDS": {
+        "NAME_AR": "Name (Arabic)",
+        "NAME_EN": "Name (English)",
+        "CATEGORY": "Category",
+        "ICON": "Icon"
+      },
+      "CATEGORIES": {
+        "RESIDENTIAL": "Residential",
+        "COMMERCIAL": "Commercial",
+        "LAND": "Land",
+        "OTHER": "Other"
+      }
+    },
+    "LEADS": {
+      "EYEBROW": "Inquiries",
+      "TITLE": "Leads",
+      "LEAD": "Review incoming inquiries, contact customers, and update their status.",
+      "SEARCH": "Search by name, phone, email, or property",
+      "NEW_COUNT": "{{count}} new",
+      "EMPTY": "No leads found.",
+      "EMPTY_LEAD": "Inquiries from the website will appear here.",
+      "DELETE_TITLE": "Delete this lead?",
+      "DELETE_TEXT": "This will permanently remove the inquiry from {{name}}.",
+      "GENERAL_INQUIRY": "General inquiry",
+      "PROJECT_INQUIRY": "Project inquiry",
+      "NO_MESSAGE": "No message was included with this inquiry.",
+      "NOTES_HELP": "Internal notes are only visible to admins. Buyer readiness from the website form is shown with the customer details and is kept when you save.",
+      "STATUS_UPDATED": "Lead status updated.",
+      "WHATSAPP_MESSAGE": "Hello {{name}}, following up on your inquiry about {{property}}.",
+      "COLUMNS": {
+        "CUSTOMER": "Customer",
+        "CONTACT": "Contact",
+        "REQUEST": "Request",
+        "RECEIVED": "Received"
+      },
+      "SECTIONS": {
+        "CUSTOMER": "Customer",
+        "INQUIRY": "Inquiry",
+        "STATUS": "Status",
+        "NOTES": "Notes"
+      },
+      "FIELDS": {
+        "NAME": "Name",
+        "PHONE": "Phone",
+        "EMAIL": "Email",
+        "PREFERRED": "Preferred contact",
+        "READINESS": "Readiness",
+        "SOURCE": "Source",
+        "PROPERTY": "Property",
+        "PROJECT": "Project",
+        "LISTING": "Listing type",
+        "UNIT_TYPE": "Preferred unit type",
+        "BUDGET": "Budget"
+      },
+      "CONTACT": {
+        "PHONE": "Phone",
+        "WHATSAPP": "WhatsApp",
+        "EMAIL": "Email"
+      },
+      "ACTIONS": {
+        "CALL": "Call",
+        "WHATSAPP": "WhatsApp",
+        "EMAIL": "Email"
+      }
+    },
+    "USERS": {
+      "EYEBROW": "Administration",
+      "TITLE": "Users & permissions",
+      "LEAD": "Invite team members, assign roles, and control exactly what every account can do.",
+      "ADD": "Add user",
+      "SEARCH": "Search by name, email, or phone",
+      "EMPTY": "No users found.",
+      "EMPTY_LEAD": "Add a team member to give them dashboard access.",
+      "SUMMARY": "{{total}} users · {{active}} active",
+      "YOU": "You",
+      "CREATE_TITLE": "Add user",
+      "CREATE_LEAD": "Create the sign-in account, choose a role, then fine-tune the permissions.",
+      "EDIT_TITLE": "Edit user",
+      "EDIT_LEAD": "Update personal information, role, status, and permissions.",
+      "DETAILS_TITLE": "User details",
+      "DETAILS_LEAD": "Review this account, its role, and everything it is allowed to do.",
+      "PERMISSIONS_TITLE": "Manage permissions",
+      "PERMISSIONS_LEAD": "Grant only the actions this user needs.",
+      "PERMISSIONS_HELP": "Tick the actions this user may perform. You can never grant a permission you do not hold yourself.",
+      "PERMISSIONS_LOCKED": "Only a super admin can change permissions.",
+      "RESET_ROLE_DEFAULTS": "Reset to role defaults",
+      "MANAGE_PERMISSIONS": "Permissions",
+      "SEND_PASSWORD_EMAIL": "Send password email",
+      "NO_ACTIONS": "You are not allowed to manage this account.",
+      "ROLE_LOCKED": "You are not allowed to change this role.",
+      "STATUS_HINT": "Inactive users keep their data but cannot sign in to the dashboard.",
+      "CREDENTIALS_HELP": "Set a temporary password. The user can choose their own password from the email we send them.",
+      "DELETE_TITLE": "Delete this user?",
+      "DELETE_TEXT": "{{name}} loses dashboard access immediately. The sign-in account itself must be removed from the Firebase console.",
+      "DEACTIVATE_TITLE": "Deactivate this user?",
+      "DEACTIVATE_TEXT": "{{name}} will not be able to sign in until the account is activated again.",
+      "ACTIVATE_TITLE": "Activate this user?",
+      "ACTIVATE_TEXT": "{{name}} will regain dashboard access.",
+      "CONFIRM_ACCESS_TITLE": "Change access level?",
+      "CONFIRM_ACCESS_TEXT": "This changes what {{name}} can reach in the dashboard.",
+      "CONFIRM_PERMISSIONS_TITLE": "Save permissions?",
+      "CONFIRM_PERMISSIONS_TEXT": "{{name}} immediately gains or loses access to the selected actions.",
+      "COLUMNS": {
+        "USER": "User",
+        "ROLE": "Role",
+        "LAST_LOGIN": "Last login",
+        "CREATED": "Created"
+      },
+      "SECTIONS": {
+        "PERSONAL": "Personal information",
+        "CREDENTIALS": "Sign-in credentials",
+        "ACCOUNT": "Account access",
+        "PERMISSIONS": "Permissions",
+        "MANAGE": "Manage account"
+      },
+      "FIELDS": {
+        "NAME": "Full name",
+        "EMAIL": "Email",
+        "EMAIL_LOCKED": "The email is managed by Firebase Authentication and cannot be changed here.",
+        "PHONE": "Phone",
+        "PHOTO": "Profile photo",
+        "PHOTO_ADD": "Add photo",
+        "PASSWORD": "Temporary password",
+        "PASSWORD_CONFIRM": "Confirm password",
+        "SEND_PASSWORD_EMAIL": "Email this user a link to set their own password",
+        "ROLE": "Role",
+        "STATUS": "Account status",
+        "MEMBER_SINCE": "Member since",
+        "LAST_LOGIN": "Last login",
+        "UPDATED": "Last updated",
+        "UID": "Account ID"
+      },
+      "FILTERS": {
+        "ALL_ROLES": "All roles",
+        "ALL_STATUSES": "All statuses"
+      },
+      "ROLES": {
+        "SUPER_ADMIN": "Super admin",
+        "ADMIN": "Admin",
+        "STAFF": "Staff"
+      },
+      "ROLE_HINTS": {
+        "SUPER_ADMIN": "Full access to every module, plus user and permission management.",
+        "ADMIN": "Manages content, catalog, leads, and settings. Cannot change permissions.",
+        "STAFF": "Limited access. Start from the defaults and add only what is needed."
+      },
+      "VALIDATION": {
+        "NAME": "Full name is required.",
+        "PASSWORD": "Use at least 8 characters.",
+        "PASSWORD_MISMATCH": "The two passwords do not match."
+      },
+      "TOAST": {
+        "CREATED": "User created.",
+        "PERMISSIONS_SAVED": "Permissions updated.",
+        "PASSWORD_EMAIL_SENT": "Password email sent."
+      },
+      "ERRORS": {
+        "EMAIL_IN_USE": "This email already has a sign-in account.",
+        "WEAK_PASSWORD": "Choose a stronger password.",
+        "INVALID_CREDENTIALS": "These credentials are not valid.",
+        "ACCESS_DENIED": "You do not have permission to perform this action.",
+        "INACTIVE": "This account is inactive.",
+        "NOT_ALLOWED": "You are not allowed to manage this account.",
+        "TOO_MANY_REQUESTS": "Too many attempts. Please wait and try again.",
+        "NETWORK": "Network error. Check your connection and try again.",
+        "UNKNOWN": "The request could not be completed. Please try again."
+      }
+    },
+    "PROFILE": {
+      "EYEBROW": "My account",
+      "TITLE": "Profile",
+      "LEAD": "Your personal details, account access, and what you are allowed to do.",
+      "EDIT": "Edit profile",
+      "EDIT_HINT": "You can update your name, phone, and photo. Role, status, and permissions are managed by an administrator.",
+      "ACCOUNT": "Account information",
+      "PERMISSIONS": "My permissions",
+      "PERMISSIONS_LEAD": "These are the actions your account is allowed to perform.",
+      "MANAGED_BY_ADMIN": "Role, status, and permissions can only be changed by an authorized administrator.",
+      "TOAST": {
+        "SAVED": "Profile updated."
+      }
+    },
+    "PERMISSIONS": {
+      "ACTIONS": {
+        "VIEW": "View",
+        "CREATE": "Create",
+        "UPDATE": "Update",
+        "DELETE": "Delete",
+        "PERMISSIONS": "Manage permissions"
+      },
+      "GROUPS": {
+        "WORKSPACE": "Workspace",
+        "CATALOG": "Catalog",
+        "SETTINGS": "Settings",
+        "ADMINISTRATION": "Administration"
+      },
+      "GRANTED_COUNT": "{{count}} permissions granted",
+      "SELECT_ALL": "All",
+      "CLEAR": "None",
+      "NONE": "No permissions granted yet.",
+      "SUPER_ADMIN_NOTE": "Super admins always hold every permission."
+    },
+    "FORBIDDEN": {
+      "TITLE": "You do not have access to this screen",
+      "LEAD": "Your account does not include the permission required for this section. Contact an administrator if you need it.",
+      "BACK": "Back to dashboard"
+    }
+  },
+  "CREDIT": {
+    "MADE_WITH": "Made with",
+    "BY": "by",
+    "ACME_CODE": "Acme Code"
+  }
+}
