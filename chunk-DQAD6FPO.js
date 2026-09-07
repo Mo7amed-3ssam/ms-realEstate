@@ -1,0 +1,1 @@
+import{a as t}from"./chunk-7OD5CQIP.js";import{$a as i}from"./chunk-5JBKEFN2.js";var n=class e{transform(r){return t(r)}static \u0275fac=function(a){return new(a||e)};static \u0275pipe=i({name:"mediaSrc",type:e,pure:!0})};export{n as a};
